@@ -1,6 +1,6 @@
 # How to use
 
-1. Install the [**Sheet file**](/raw/main/Sheet%206000.7z)
+1. Install the [**Sheet file**](https://github.com/BaciliusDinglemeu/Sheet-Music/raw/main/Sheet%206000.7z)
 1. Install [**EX File Manager**](https://play.google.com/store/apps/details?id=com.ace.ex.file.manager) or [**Zarchiver**](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 2. Open EX File Manager or Zarchiver
 3. Find the sheet music file then select the file and choose "Extract to" then "Current path" or "Extract here"
